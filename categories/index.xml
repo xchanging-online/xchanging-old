@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on xChanging Online</title>
+    <link>https://xchanging-online.github.io/categories/</link>
+    <description>Recent content in Categories on xChanging Online</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>support@xchanging.online (Abu Zafar)</managingEditor>
+    <webMaster>support@xchanging.online (Abu Zafar)</webMaster>
+    
+	<atom:link href="https://xchanging-online.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+  </channel>
+</rss>
