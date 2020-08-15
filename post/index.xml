@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>xChanging Online</title>
-    <link>https://xchanging-online.github.io/</link>
-    <description>Recent content on xChanging Online</description>
+    <title>Posts on xChanging Online</title>
+    <link>https://xchanging-online.github.io/post/</link>
+    <description>Recent content in Posts on xChanging Online</description>
     <generator>Hugo -- gohugo.io</generator>
     <managingEditor>support@xchanging.online (Abu Zafar)</managingEditor>
     <webMaster>support@xchanging.online (Abu Zafar)</webMaster>
     <lastBuildDate>Mon, 20 Mar 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://xchanging-online.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://xchanging-online.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -163,17 +163,6 @@ Association football, more commonly known as football or soccer,[2] is a sport p
       <author>support@xchanging.online (Abu Zafar)</author>
       <guid>https://xchanging-online.github.io/post/2015-01-04-first-post/</guid>
       <description>This is my first post, how exciting!</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>https://xchanging-online.github.io/page/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <author>support@xchanging.online (Abu Zafar)</author>
-      <guid>https://xchanging-online.github.io/page/about/</guid>
-      <description>My name is Inigo Montoya. I have the following qualities:
- I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
-my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>
